@@ -1,4 +1,7 @@
 # Front-End Team-199 / Where You Are (WYR)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9a5c15de4e50421983c30b34e624dc4e)](https://app.codacy.com/gh/BuildForSDG/Team-199-Front-End?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-199-Front-End&utm_campaign=Badge_Grade_Dashboard)
+
 Bringing services to you, even if you don't have a formal address.
 For more info https://buildforsdg.github.io/Team-199/
 

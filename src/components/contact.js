@@ -14,7 +14,9 @@ class Contact extends Component {
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Some short dummy text to explain our contact Us page</p>
+             <p style={{ width: '75%', margin: 'auto', textAlign: 'justify', paddingTop: '1em'}}>We are a group of developers that entered Facebook Developer Circles and Andela's challenge called Build
+       for Sustainable Development Goals or #BuildForSDG for short. For the innovation phase, 
+      we were grouped together as Team-199 and came up with a solution to address social issues.</p>
 
           </Cell>
           <Cell col={6}>

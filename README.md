@@ -2,6 +2,8 @@
 Bringing services to you, even if you don't have a formal address.
 For more info https://buildforsdg.github.io/Team-199/
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/91cea20f05e94c709408d18f5a3f58d4)](https://www.codacy.com/gh/BuildForSDG/Team-199-Front-End?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BuildForSDG/Team-199-Front-End&amp;utm_campaign=Badge_Grade)
+
 # About Us
 We are a group of developers that entered Facebook Developer Circles and Andela’s challenge called Build for Sustainable Development Goals or #BuildForSDG for short. For the innovation phase, we were grouped together as Team-199 and came up with a solution to address social issues.
 
